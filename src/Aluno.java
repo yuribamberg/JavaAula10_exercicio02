@@ -22,5 +22,4 @@ public class Aluno {
     public String exibirboletim() {
         return "Aluno: " + nome + " | " + "Matrícula: " + matricula + "\nNota 1: " + nota1 + " | " + "Nota 2: " + nota2 + "\nMédia: " + CalcularMedia() + "\nSituação: " + aprovado();   
     }
-
 }
