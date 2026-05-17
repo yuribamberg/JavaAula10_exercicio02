@@ -10,7 +10,5 @@ public class App {
         aluno.nota2 = 7.0;
 
         System.out.println(aluno.exibirboletim());
-
-
     }
 }
